@@ -10,7 +10,7 @@ https://youtu.be/9qXjgqchy3g
 
 1. Buildフォルダからzipファイルをダウンロード
 2. zipファイルを解凍
-3. 実行ファイル.exeを実行
+3. WordBuilder.exeを実行
 
 ※Windows環境で動作確認済み
 
