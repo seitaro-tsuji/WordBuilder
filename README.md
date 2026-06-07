@@ -2,7 +2,24 @@
 
 ![ゲーム画面](screenshots/スクリーンショット2.png)
 
-仕様技術：C++/DXライブラリ
+## プレイ動画
+
+https://youtu.be/9qXjgqchy3g
+
+## 実行方法
+
+1. Buildフォルダからzipファイルをダウンロード
+2. zipファイルを解凍
+3. WordBuilder.exeを実行
+
+※Windows環境で動作確認済み
+
+## 使用技術
+
+* C++
+* DXライブラリ
+
+## 制作形態
 
 個人制作
 
